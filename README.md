@@ -1,6 +1,6 @@
 # Zusatzmaterialien "KI-Tools für die literaturwissenschaftliche Recherche"
 
-Zusatzmaterialien für den in der [Zeitschrift für digitale Geisteswissenschaften](zfdg.de) erschienenen Beitrag Catani, Stephanie / Leitgeb, Johannes: KI-Tools für die literaturwissenschaftliche Recherche, oder: Warum wir Open-Access veröffentlichen müssen \[im Druck\].
+Zusatzmaterialien für den in der [Zeitschrift für digitale Geisteswissenschaften](https://www.zfdg.de) erschienenen Beitrag Catani, Stephanie / Leitgeb, Johannes: KI-Tools für die literaturwissenschaftliche Recherche, oder: Warum wir Open-Access veröffentlichen müssen \[im Druck\].
 
 Die Materialien weisen den Stand von Dezember 2025 auf und werden nicht aktualisiert.
 
