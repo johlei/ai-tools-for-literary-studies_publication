@@ -2,4 +2,4 @@
 
 Zusatzmaterialien für den in der (Zeitschrift für digitale Geisteswissenschaften)[zfdg.de] erschienenen Beitrag Catani, Stephanie / Leitgeb, Johannes: KI-Tools für die literaturwissenschaftliche Recherche, oder: Warum wir Open-Access veröffentlichen müssen, \[im Druck\].
 
-Die Tabelle "overview-universities.csv" wurde von Sina Hofmann erstellt. Wir danken darüber hinaus Adeliya Sagitova für das Lektorat. 
+Die Tabelle `overview-universities.csv` wurde von Sina Hofmann erstellt. Wir danken darüber hinaus Adeliya Sagitova für das Lektorat. 
